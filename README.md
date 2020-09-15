@@ -3,23 +3,19 @@
 ## PowerBI Back-End
 ### Utilizing Python v3.8.5
 
-
-#### Created by: 
 #### Created on: 12SEP2020
-#### Manager: 
-
 
 ## Purpose
 
-> Insert Purpose Here
+> The purpose of this Application is to facilitate the backend processing/"pre-processing" of Sharepoint data to identify Transformation projects, and their respective status.
 
 ## Structure
 
-> Breakdown Structure Here
+> The application fetches the 'live' Sharepoint data on a timeloop (interval=seconds), which is fed into multiple scripts, representing their respective filtered ''applied filters'' 
 
 ## Flow
 
-> Explain Back-End Workflow here
+> This data is then synced to a OneDrive folder, that is Synced to a OneDrive Teams Folder - which is monitored by PowerBI Pro Workspace for changes, and thus updated in the app at the selected interval (OneDrive Teams Folder default monitors on each hour without any additional scheduled refreshes).
 
 ## Running
 
@@ -39,9 +35,13 @@
 2. Create Python Virtual Environment
 
 i. Go to project root / folder in terminal
-ii. > $ python -m pip install -U pip
-iii. > $ python -m pip install -r requirements.txt
+
+ii. 
+> $ python -m pip install -U pip
+
+iii.
+>$ python -m pip install -r requirements.txt
 
 3. Run File
 
-i. $ Python powerConn.py
+>$ Python powerConn.py
