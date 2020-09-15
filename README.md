@@ -1,4 +1,4 @@
-<center> ![alt text](https://i.ibb.co/YT5mXdV/lumen.jpg "Lumen") </center>
+<center>(https://i.ibb.co/YT5mXdV/lumen.jpg)</center>
 # Proactive Rehab Tracking
 ## PowerBI Back-End
 ### Utilizing Python v3.8.5
