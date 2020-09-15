@@ -1,4 +1,4 @@
-![alt text](https://www.dwglogo.com/wp-content/uploads/2016/06/CenturyLink-Symbol-Logo.png "CenturyLink")
+![alt text](https://ibb.co/x8nWYgr "Lumen")
 # Proactive Rehab Tracking
 ## PowerBI Back-End
 ### Utilizing Python v3.8.5
