@@ -1,4 +1,5 @@
-<center>![lumen](https://i.ibb.co/YT5mXdV/lumen.jpg)</center>
+![lumen](https://i.ibb.co/YT5mXdV/lumen.jpg)
+
 # Proactive Rehab Tracking
 ## PowerBI Back-End
 ### Utilizing Python v3.8.5
